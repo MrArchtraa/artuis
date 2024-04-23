@@ -131,7 +131,7 @@ const Button = styled.button<ButtonProps>`
     `}
 `;
 
-const MyComponent = () => {
+const ArtButton = () => {
   return (
     <div>
       {/* Menggunakan komponen tombol yang telah dibuat */}
@@ -143,4 +143,4 @@ const MyComponent = () => {
   );
 };
 
-export default MyComponent;
+export default ArtButton;
