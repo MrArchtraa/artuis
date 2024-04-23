@@ -28,7 +28,7 @@ const Input = styled.input<InputProps>`
         }
 
         &:hover {
-            background-color: ${colors.secondary.soft}
+            background-color: ${colors.secondary.hoverSoft}
         }
 
         &:focus {
