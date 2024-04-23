@@ -17,7 +17,7 @@ const Button = styled.button<ButtonProps>`
   padding: 10px 20px;
   margin: 0 10px;
   border: none;
-  border-radius: 4px;
+  border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
 
